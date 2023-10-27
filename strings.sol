@@ -1,1 +1,2 @@
-./src/strings.sol
+./src/strings.sol 
+//changed to existed strings 
